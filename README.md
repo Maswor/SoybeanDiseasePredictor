@@ -4,10 +4,9 @@
 
 ## Getting Started
 
-<p align="middle">
-  <img src="README_IMGS/IMG_1257.png" width="300" />
-  <img src="README_IMGS/IMG_1258.png" width="300" /> 
-</p>
+Prediction on image             |  Selecting input
+:-------------------------:|:-------------------------:
+![](README_IMGS/IMG_1257.png)  |  ![](README_IMGS/IMG_1258.png)
 
 WebAnnotation consit of a Webapp, a server and a database so it will take a bit of time to install. We recommend installing on an Unix OS (Preferbly Ubuntu LTS version). For other OSs, please follow platform specific steps to install the required softwares.
 
